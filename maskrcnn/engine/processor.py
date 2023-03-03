@@ -41,9 +41,11 @@ def train_model():
         optimizer = None
 
     save_to_disk = get_rank() == 0
+    cfg.CHECKPT_DIR = '/home/MULAN_universal_lesion_analysis/' + cfg.CHECKPT_DIR
     checkpointer = DetectronCheckpointer(model, optimizer, scheduler=None, save_dir=cfg.CHECKPT_DIR,
                                          prefix=cfg.EXP_NAME, save_to_disk=save_to_disk)
 
+    #import pdb; pdb.set_trace()
     if cfg.BEGIN_EPOCH == 0:
         if not cfg.MODEL.INIT_FROM_PRETRAIN:
             logger.info('No pretrained weights')
