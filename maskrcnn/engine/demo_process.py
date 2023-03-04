@@ -104,6 +104,7 @@ def import_tag_data():
 
 def load_preprocess_nifti(data):
     vol = (data.get_data().astype('int32') + 32768).astype('uint16')  # to be consistent with png files
+    #vol = (np.asanyarray(data).astype('int32') + 32768).astype('uint16')  # to be consistent with png files
     # spacing = -data.get_affine()[0,1]
     # slice_intv = -data.get_affine()[2,2]
     aff = data.get_affine()[:3, :3]

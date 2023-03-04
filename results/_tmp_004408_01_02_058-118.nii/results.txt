@@ -1,0 +1,187 @@
+slice 1
+lesion A, score: 0.646 | 17 x 10 mm | calcified: 0.943, chest: 0.811, mass: 0.776, sclerotic: 0.733, patchy: 0.367, 
+lesion B, score: 0.603 | 13 x 10 mm | bone: 0.969, chest: 0.806, calcified: 0.797, mass: 0.793, lobular: 0.336, patchy: 0.313, 
+
+slice 2
+lesion A, score: 0.863 | 2 x 2 mm | left lung: 0.859, nodule: 0.777, mass: 0.641, lobular: 0.531, 
+lesion B, score: 0.610 | 2 x 1 mm | ground-glass opacity: 0.964, reticular: 0.951, right upper lobe: 0.856, tiny: 0.844, nodule: 0.788, patchy: 0.737, 
+
+slice 3
+
+slice 4
+lesion A, score: 0.702 | 2 x 2 mm | ground-glass opacity: 0.957, lung: 0.911, reticular: 0.827, nodule: 0.739, patchy: 0.466, lobular: 0.387, 
+lesion B, score: 0.501 | 3 x 2 mm | ground-glass opacity: 0.930, reticular: 0.877, right lung: 0.835, tiny: 0.803, patchy: 0.651, 
+
+slice 5
+lesion A, score: 0.701 | 3 x 2 mm | ground-glass opacity: 0.962, lung: 0.914, reticular: 0.847, nodule: 0.722, patchy: 0.470, lobular: 0.369, 
+lesion B, score: 0.697 | 15 x 8 mm | calcified: 0.915, soft tissue: 0.851, mass: 0.786, chest: 0.755, sclerotic: 0.718, patchy: 0.389, 
+
+slice 6
+
+slice 7
+
+slice 8
+lesion A, score: 0.777 | 3 x 2 mm | left lung: 0.893, nodule: 0.816, mass: 0.614, lobular: 0.588, perihilar: 0.507, 
+lesion B, score: 0.726 | 8 x 5 mm | lung: 0.893, reticular: 0.780, nodule: 0.749, calcified: 0.734, mass: 0.718, patchy: 0.366, 
+
+slice 9
+lesion A, score: 0.835 | 7 x 5 mm | reticular: 0.830, right lung: 0.821, nodule: 0.801, mass: 0.681, patchy: 0.449, 
+
+slice 10
+lesion A, score: 0.950 | 7 x 5 mm | ground-glass opacity: 0.941, reticular: 0.925, right upper lobe: 0.874, nodule: 0.811, mass: 0.666, patchy: 0.551, 
+
+slice 11
+lesion A, score: 0.936 | 6 x 5 mm | ground-glass opacity: 0.963, subpleural: 0.962, reticular: 0.948, right upper lobe: 0.890, nodule: 0.814, mass: 0.656, patchy: 0.581, 
+
+slice 12
+
+slice 13
+lesion A, score: 0.704 | 3 x 2 mm | ground-glass opacity: 0.939, lung: 0.935, tiny: 0.850, nodule: 0.798, reticular: 0.797, patchy: 0.353, 
+lesion B, score: 0.525 | 3 x 2 mm | ground-glass opacity: 0.940, right upper lobe: 0.926, tiny: 0.851, nodule: 0.806, reticular: 0.801, mass: 0.647, patchy: 0.613, 
+
+slice 14
+
+slice 15
+
+slice 16
+lesion A, score: 0.508 | 28 x 26 mm | thin: 0.966, cyst: 0.861, chest: 0.847, large: 0.802, hypoattenuation: 0.798, mass: 0.733, 
+
+slice 17
+
+slice 18
+lesion A, score: 0.588 | 28 x 25 mm | thin: 0.975, cyst: 0.881, chest: 0.878, large: 0.820, hypoattenuation: 0.800, mass: 0.736, circumscribed: 0.520, 
+
+slice 19
+lesion A, score: 0.722 | 27 x 27 mm | thin: 0.973, chest: 0.880, cyst: 0.875, large: 0.825, hypoattenuation: 0.783, mass: 0.739, 
+
+slice 20
+lesion A, score: 0.995 | 5 x 3 mm | subpleural: 0.951, ground-glass opacity: 0.913, left lung: 0.867, nodule: 0.811, lobular: 0.308, 
+lesion B, score: 0.688 | 3 x 2 mm | ground-glass opacity: 0.906, right lung: 0.846, nodule: 0.830, reticular: 0.788, mass: 0.601, patchy: 0.558, lobular: 0.272, 
+
+slice 21
+lesion A, score: 0.996 | 4 x 4 mm | left lung: 0.894, nodule: 0.869, lobular: 0.368, 
+
+slice 22
+lesion A, score: 0.993 | 4 x 3 mm | ground-glass opacity: 0.907, left lung: 0.906, nodule: 0.875, lobular: 0.386, 
+
+slice 23
+lesion A, score: 0.970 | 4 x 3 mm | ground-glass opacity: 0.940, left lung: 0.901, nodule: 0.842, lobular: 0.349, 
+lesion B, score: 0.635 | 2 x 2 mm | lung: 0.898, nodule: 0.757, reticular: 0.666, patchy: 0.478, perihilar: 0.416, lobular: 0.357, 
+
+slice 24
+lesion A, score: 0.914 | 3 x 2 mm | ground-glass opacity: 0.931, left lung: 0.872, nodule: 0.777, lobular: 0.324, 
+lesion B, score: 0.779 | 3 x 2 mm | nodule: 0.882, right upper lobe: 0.864, mass: 0.637, patchy: 0.499, perihilar: 0.464, lobular: 0.316, 
+lesion C, score: 0.610 | 4 x 3 mm | right lung: 0.855, reticular: 0.842, mass: 0.627, patchy: 0.531, 
+
+slice 25
+lesion A, score: 0.995 | 5 x 5 mm | right lung: 0.874, nodule: 0.789, reticular: 0.773, mass: 0.678, patchy: 0.350, 
+lesion B, score: 0.654 | 7 x 4 mm | ground-glass opacity: 0.915, lung: 0.891, nodule: 0.765, mass: 0.628, 
+
+slice 26
+lesion A, score: 0.996 | 6 x 4 mm | right lung: 0.862, nodule: 0.805, reticular: 0.756, mass: 0.694, patchy: 0.283, 
+lesion B, score: 0.615 | 7 x 4 mm | ground-glass opacity: 0.925, lung: 0.881, nodule: 0.728, mass: 0.629, 
+
+slice 27
+lesion A, score: 0.986 | 6 x 4 mm | right lung: 0.851, nodule: 0.809, reticular: 0.729, mass: 0.675, patchy: 0.268, 
+
+slice 28
+lesion A, score: 0.616 | 30 x 28 mm | thin: 0.982, cyst: 0.889, chest: 0.849, large: 0.833, hypoattenuation: 0.799, mass: 0.718, circumscribed: 0.621, lobular: 0.272, 
+
+slice 29
+lesion A, score: 0.543 | 4 x 2 mm | ground-glass opacity: 0.954, left lung: 0.890, nodule: 0.803, reticular: 0.661, lobular: 0.541, patchy: 0.277, 
+
+slice 30
+lesion A, score: 0.871 | 7 x 5 mm | subpleural: 0.966, lung: 0.870, mass: 0.709, patchy: 0.357, 
+lesion B, score: 0.620 | 9 x 6 mm | lung: 0.743, mass: 0.739, calcified: 0.731, patchy: 0.332, 
+lesion C, score: 0.515 | 30 x 25 mm | thin: 0.981, cyst: 0.895, chest: 0.853, large: 0.850, hypoattenuation: 0.800, mass: 0.730, circumscribed: 0.610, lobular: 0.277, 
+
+slice 31
+lesion A, score: 0.941 | 11 x 8 mm | right upper lobe: 0.874, mass: 0.718, patchy: 0.465, 
+lesion B, score: 0.932 | 8 x 6 mm | subpleural: 0.956, ground-glass opacity: 0.928, right upper lobe: 0.866, reticular: 0.723, mass: 0.706, patchy: 0.460, 
+
+slice 32
+lesion A, score: 0.942 | 12 x 9 mm | right upper lobe: 0.874, mass: 0.710, patchy: 0.460, 
+lesion B, score: 0.581 | 10 x 8 mm | ground-glass opacity: 0.947, right upper lobe: 0.883, reticular: 0.785, mass: 0.698, patchy: 0.562, 
+lesion C, score: 0.538 | 30 x 26 mm | thin: 0.980, cyst: 0.890, chest: 0.864, large: 0.847, hypoattenuation: 0.788, mass: 0.722, circumscribed: 0.576, lobular: 0.260, 
+
+slice 33
+lesion A, score: 0.524 | 30 x 25 mm | thin: 0.976, cyst: 0.884, chest: 0.857, large: 0.839, hypoattenuation: 0.786, mass: 0.718, circumscribed: 0.573, lobular: 0.253, 
+
+slice 34
+
+slice 35
+
+slice 36
+lesion A, score: 0.805 | 7 x 5 mm | right lung: 0.828, perihilar: 0.802, nodule: 0.737, reticular: 0.701, mass: 0.654, patchy: 0.537, lobular: 0.352, 
+
+slice 37
+lesion A, score: 0.696 | 9 x 7 mm | right lung: 0.813, perihilar: 0.793, nodule: 0.782, mass: 0.692, patchy: 0.488, lobular: 0.390, 
+
+slice 38
+lesion A, score: 0.898 | 3 x 3 mm | subpleural: 0.959, ground-glass opacity: 0.924, tiny: 0.881, right upper lobe: 0.856, nodule: 0.833, reticular: 0.770, mass: 0.604, patchy: 0.451, 
+
+slice 39
+lesion A, score: 0.943 | 2 x 2 mm | subpleural: 0.956, ground-glass opacity: 0.931, right lung: 0.909, tiny: 0.897, nodule: 0.849, reticular: 0.770, patchy: 0.435, 
+lesion B, score: 0.603 | 3 x 3 mm | ground-glass opacity: 0.945, right lung: 0.905, tiny: 0.866, nodule: 0.810, reticular: 0.733, mass: 0.614, patchy: 0.548, 
+
+slice 40
+
+slice 41
+lesion A, score: 0.644 | 4 x 3 mm | ground-glass opacity: 0.970, right lung: 0.929, tiny: 0.902, reticular: 0.845, nodule: 0.756, patchy: 0.639, 
+
+slice 42
+
+slice 43
+
+slice 44
+
+slice 45
+lesion A, score: 0.554 | 3 x 2 mm | ground-glass opacity: 0.961, left upper lung: 0.932, mass: 0.661, lobular: 0.434, 
+
+slice 46
+lesion A, score: 0.893 | 3 x 3 mm | ground-glass opacity: 0.943, left upper lung: 0.935, nodule: 0.689, mass: 0.659, lobular: 0.451, 
+
+slice 47
+lesion A, score: 0.946 | 3 x 3 mm | left upper lung: 0.934, ground-glass opacity: 0.918, nodule: 0.762, mass: 0.649, lobular: 0.477, 
+
+slice 48
+lesion A, score: 0.964 | 4 x 3 mm | left upper lung: 0.938, ground-glass opacity: 0.918, nodule: 0.793, calcified: 0.708, mass: 0.634, lobular: 0.487, 
+
+slice 49
+lesion A, score: 0.983 | 3 x 3 mm | left upper lung: 0.939, nodule: 0.853, calcified: 0.739, mass: 0.647, lobular: 0.563, 
+
+slice 50
+lesion A, score: 0.974 | 3 x 2 mm | left upper lung: 0.950, nodule: 0.873, calcified: 0.734, mass: 0.667, lobular: 0.611, 
+
+slice 51
+lesion A, score: 0.989 | 3 x 2 mm | ground-glass opacity: 0.920, nodule: 0.888, right lung: 0.882, tiny: 0.847, reticular: 0.703, patchy: 0.467, lobular: 0.270, 
+lesion B, score: 0.943 | 3 x 2 mm | left upper lung: 0.956, ground-glass opacity: 0.924, nodule: 0.838, calcified: 0.701, mass: 0.693, lobular: 0.595, 
+
+slice 52
+lesion A, score: 0.993 | 3 x 3 mm | ground-glass opacity: 0.908, nodule: 0.903, right lung: 0.886, tiny: 0.863, reticular: 0.653, patchy: 0.365, lobular: 0.274, 
+lesion B, score: 0.741 | 3 x 1 mm | subpleural: 0.959, ground-glass opacity: 0.910, left lung: 0.855, nodule: 0.668, mass: 0.648, lobular: 0.312, 
+lesion C, score: 0.554 | 5 x 2 mm | left upper lung: 0.955, ground-glass opacity: 0.954, nodule: 0.716, mass: 0.698, lobular: 0.529, 
+
+slice 53
+lesion A, score: 0.900 | 4 x 2 mm | ground-glass opacity: 0.951, right lung: 0.893, tiny: 0.883, nodule: 0.855, reticular: 0.801, patchy: 0.494, 
+
+slice 54
+lesion A, score: 0.764 | 3 x 2 mm | subpleural: 0.976, nodule: 0.830, lung: 0.826, calcified: 0.789, mass: 0.668, 
+
+slice 55
+lesion A, score: 0.974 | 3 x 1 mm | subpleural: 0.982, nodule: 0.883, tiny: 0.831, right lung: 0.811, calcified: 0.760, mass: 0.628, 
+
+slice 56
+lesion A, score: 0.972 | 3 x 1 mm | subpleural: 0.985, nodule: 0.885, tiny: 0.830, right lung: 0.829, calcified: 0.739, mass: 0.636, 
+
+slice 57
+lesion A, score: 0.937 | 4 x 1 mm | subpleural: 0.983, nodule: 0.860, tiny: 0.831, right lung: 0.814, calcified: 0.722, mass: 0.623, 
+
+slice 58
+
+slice 59
+
+slice 60
+
+slice 61
+
