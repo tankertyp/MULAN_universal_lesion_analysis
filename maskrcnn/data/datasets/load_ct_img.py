@@ -59,8 +59,8 @@ def load_multislice_img_16bit_png(data_dir, imname, slice_intv, do_clip, num_sli
         if imname1 not in data_cache.keys():
             data_cache[imname1] = cv2.imread(os.path.join(data_dir, imname1), -1)
             assert data_cache[imname1] is not None, 'file reading error: ' + imname1
-            # if data_cache[imname1] is None:
-            #     print('file reading error:', imname1)
+            #if data_cache[imname1] is None:
+            #    print('file reading error:', imname1)
         return data_cache[imname1]
 
     def _load_data_from_nifti(imname, delta=0):

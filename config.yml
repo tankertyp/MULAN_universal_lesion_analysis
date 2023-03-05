@@ -1,9 +1,9 @@
 EXP_NAME: "MULAN_trained_on_DeepLesion"  # this name, together with "BEGIN_EPOCH", decides the file name of your checkpoint for training and inference
 FINETUNE_FROM: ""  # useful in training. If "", same with EXP_NAME
 GPU: ''  # if "", choose the idlest GPU
-BEGIN_EPOCH: 8  # if = 0, start new training process; if > 0, load previous checkpoint according to FINETUNE_FROM
+BEGIN_EPOCH: 0  # if = 0, start new training process; if > 0, load previous checkpoint according to FINETUNE_FROM
 LOG_IN_FILE: True
-MODE: "demo"  # "train", "eval", "vis", "demo", "batch", see readme.md
+MODE: "train"  # "train", "eval", "vis", "demo", "batch", see readme.md
 # If you want to train, set MODE to "train", BEGIN_EPOCH to 0, and EXP_NAME to a new name.
 EVAL_AT_BEGIN: False  # do validation before start training
 KEEP_BEST_MODEL: True
@@ -52,7 +52,7 @@ MODEL:
   REFINE_ON: True
 
   META_ARCHITECTURE: "GeneralizedRCNN"
-  INIT_FROM_PRETRAIN: True  # whether use ImageNet pretrained weights
+  INIT_FROM_PRETRAIN: False  # whether use ImageNet pretrained weights
   BACKBONE:
     CONV_BODY: "DenseTrunc-121"
     FEATURE_UPSAMPLE: True  # use the FPN structure in the backbone and only predict on the finest feature map
